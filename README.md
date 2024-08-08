@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ego1k  😊
 - ⌨️ I’m a Data Security Engineer 😎
-- 🌱 I’m currently studing DLP Administrator 🫡
+- 🌱 I’m currently studing LPIC 1 🫡
 - 💞️ I’m looking to collaborate on with any project you have in mind 🤯
 - 📫 How to reach me alessiorestaino1999@gmail.com 👈
 
